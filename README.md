@@ -113,33 +113,20 @@ Since binary only uses 0 and 1, when we count past 1, we combine those 0s and 1s
 
 Now that we understand binary works in powers of 2, let’s break down how place values are calculated:
 
-Power of 2
-Calculation
-Place Value
-2⁰
-The exponent is 0, any number raised by 0 is always equal to 1, so 2 x 0 = 1.
-1
-2¹
-The exponent is 1, which means 2 is used as a factor only once. So, 2 x 1 = 2.
-2
-2²
-The exponent is 2, so 2 x 2 = 4.
-4
-2³
-The exponent is 3, so 2 x 2 x 2 = 8. 
-8
-2⁴
-The exponent is 4, so 2 x 2 x 2 x 2 = 16. 
-16
-2⁵
-The exponent is 5, so 2 x 2 x 2 x 2 x 2 = 32. 
-32
-2⁶
-The exponent is 6, so 2 x 2 x 2 x 2 x 2 x 2  = 64. 
-64
-2⁷
-The exponent is 7, so 2 x 2 x 2 x 2 x 2 x 2 x 2 = 128. 
-128
+| Power of 2   | Calculation  | Place Value |
+| :---: | :---  | :--- 
+| 2⁰ | The exponent is 0, any number raised by 0 is always equal to 1, so 2 x 0 = 1.  | 1 |
+| 2¹ | The exponent is 1, which means 2 is used as a factor only once. So, 2 x 1 = 2. | 2 |
+| 2² | The exponent is 2, so 2 x 2 = 4. | 4 |
+| 2³ | The exponent is 3, so 2 x 2 x 2 = 8. | 8 |
+| 2⁴ | The exponent is 4, so 2 x 2 x 2 x 2 = 16. | 16 |
+| 2⁵ | The exponent is 5, so 2 x 2 x 2 x 2 x 2 = 32. | 32|
+| 2⁶ | The exponent is 6, so 2 x 2 x 2 x 2 x 2 x 2  = 64.| 64 |
+| 2⁷ | The exponent is 7, so 2 x 2 x 2 x 2 x 2 x 2 x 2 = 128. | 128 |
+
+
+
+
 
 Here are some decimal numbers and their binary counterparts:
 
