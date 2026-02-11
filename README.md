@@ -1,8 +1,11 @@
 # She’s Good with Computers
 
 My spouse and I were joking about the title of the post. On several occasions, this statement was uttered by older members of our respective families in reference to people that were knowledgeable about technology. 
+
 When follow-up questions (such as, “oh, what does she do? or “where does she work?”) are posed, the answer is usually “I don’t know. She’s just good with computers.”
+
 This simple answer speaks to how mysterious technology is in our modern culture. For something as ubiquitous in our daily lives as tech, most people don’t understand what tech entails.
+
 The tech world is broad with a wide range of roles that cater to different aspects of tech, from infrastructure to development. Here are some common roles within tech:
 
 1. Software Development/Engineering
