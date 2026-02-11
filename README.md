@@ -114,7 +114,7 @@ Since binary only uses 0 and 1, when we count past 1, we combine those 0s and 1s
 Now that we understand binary works in powers of 2, let’s break down how place values are calculated:
 
 | Power of 2   | Calculation  | Place Value |
-| :---: | :---  | :--- 
+| :---: | :---: | :---: |
 | 2⁰ | The exponent is 0, any number raised by 0 is always equal to 1, so 2 x 0 = 1.  | 1 |
 | 2¹ | The exponent is 1, which means 2 is used as a factor only once. So, 2 x 1 = 2. | 2 |
 | 2² | The exponent is 2, so 2 x 2 = 4. | 4 |
@@ -124,44 +124,16 @@ Now that we understand binary works in powers of 2, let’s break down how place
 | 2⁶ | The exponent is 6, so 2 x 2 x 2 x 2 x 2 x 2  = 64.| 64 |
 | 2⁷ | The exponent is 7, so 2 x 2 x 2 x 2 x 2 x 2 x 2 = 128. | 128 |
 
-
-
-
-
 Here are some decimal numbers and their binary counterparts:
 
-Decimal
-Binary
-0
-00000000
-1
-00000001
-2
-00000010
-3
-00000011
-4
-00000100
-5
-00000101
-6
-00000110
-7
-00000111
-8
-00001000
-9
-00001001
-150
-10010110
-200
-11001000
-225
-11100001
-240
-11110000
-255
-11111111
+| Decimal | Binary |
+| :---: | :---:  |
+| 0 | 00000000 |
+| 1 | 00000001 |
+| 2 | 00000010 |
+| 150 | 10010110 |
+| 225 | 11100001 |
+| 255 | 11111111 |
 
 Each 0 or 1 in a binary number is called a bit. Bits are grouped into units of 8 to form bytes. Using a baking analogy, sugar is an important bit in making a chocolate cake, but you can’t make a chocolate cake with only one cup of sugar. Other ingredients are required to make a chocolate cake; flour, baking powder, salt, vanilla, cocoa powder, milk, and eggs. 
 
