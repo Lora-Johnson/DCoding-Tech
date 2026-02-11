@@ -157,7 +157,7 @@ Unicode, on the other hand, expands on ASCII to support characters from multiple
 
 * “A” in Unicode is still 01000001, just like ASCII.
 * “日” (Japanese character for “sunlight”) = 11101010 00000000 01001010
-* “:smiley:” (Smiley emoji) = 11110000 10011111 10011000 10010000
+* :smiley: (Smiley emoji) = 11110000 10011111 10011000 10010000
   
 These varying encodings allow for a balance between the efficient use of computer storage space and the need to represent a comprehensive set of characters.
 
