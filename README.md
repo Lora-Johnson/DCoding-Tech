@@ -61,12 +61,10 @@ Hardware-related roles are just as important in tech, especially as we continue 
 * Electronics Engineer: Designs and develops the electronic components and circuits that are integral to computer hardware (such as motherboards, processors, and power systems).
 * Computer Hardware Engineer: Works on the physical components of computers, including the design, testing, and production of things like processors, memory units, and peripheral devices.
 * Embedded Systems Engineer: Focuses on the hardware and software combination in embedded systems (like those in consumer electronics, medical devices, or IoT).
-  
 2. Systems Architect
-* Hardware Systems Architect: Designs and structures the overall layout and integration of hardware components, such as creating the blueprint for how a computer or network system’s hardware components will work together. They need to ensure compatibility between different hardware elements.
-  
+* Hardware Systems Architect: Designs and structures the overall layout and integration of hardware components, such as creating the blueprint for how a computer or network system’s hardware components will work together. They need to ensure compatibility between different hardware elements.  
 3. Network Hardware Engineer
-* Network Hardware Engineer: Specializes in designing and building network infrastructure components such as routers, switches, and firewalls. They ensure the physical devices that make up the network work seamlessly and efficiently.
+* Network Hardware Engineer: Specializes in designing and building network infrastructure components such as routers, switches, and firewalls. They ensure the physical devices that make up the network work seamlessly and efficiently. 
 4. Manufacturing Engineer
 * Hardware Manufacturing Engineer: Works in the production process of hardware components and ensures the smooth transition from design to mass production. They deal with assembly lines, quality control, and optimizing manufacturing processes.
 5. Field Service Technician
@@ -153,7 +151,7 @@ Once you go past 11111111 (aka, decimal number 255), which is the endpoint of th
 
 So what do binary numbers mean to our computer? Here are a few examples:
 
-1. Letters and Characters
+**Letters and Characters:**
    
 Computers don’t understand letters and characters like we do, so they use special encoding standards (ASCII or Unicode) to represent them in binary. 
 
@@ -172,7 +170,7 @@ Unicode, on the other hand, expands on ASCII to support characters from multiple
   
 These varying encodings allow for a balance between the efficient use of computer storage space and the need to represent a comprehensive set of characters.
 
-2. Images
+**Images:**
    
 Every image on your screen is made up of pixels. Each pixel has a color, and each color is stored as a binary code. A common format is RGB (Red, Green, Blue), where each color gets its own binary value.
 
@@ -182,7 +180,7 @@ Pure red in binary looks like this:
   
 RGB has its own notations of representing colors, so you would most likely see pure red referred to as (255, 0, 0) in 8-bit form or as (#FF0000) in hexadecimal form. While binary is the foundation, computers also use hexadecimal notation for more compact representations of large binary numbers. Hexadecimal is a 16-bit numerical system where numbers “0”–”9″ represent values 0 to 9 and letters “A”–”F” represent values from 10 to 15.
 
-3. Sounds
+**Sounds:**
    
 Have you ever wondered how music is stored digitally? It’s all just numbers!
 
