@@ -85,7 +85,7 @@ Tech isn’t just “computers”—it’s an entire universe of roles, from cod
 
 Understanding the diversity of these roles not only demystifies tech but also highlights the many opportunities available in the industry. So, if you or someone you know is interested in tech, there’s a place for you—no matter where your skills and passions lie.
 
-Here are a few terms that I should have defined:
+Here are a few terms that I should have defined earlier:
 
 **Cloud** – A way to store and access data, apps, and services over the internet instead of on your personal computer or phone. This information (the data, apps, and services) are kept in a special storage space on servers (more on this below). So, if you use Google Drive, iCloud, or Netflix, you’re using the cloud. This definition scratches the surface of what you can do in the cloud.
 
@@ -193,6 +193,72 @@ Here are some links for more information:
 - [8-16-32-64-128 bits](https://study.com/academy/lesson/16-32-64-128-bit-integers.html)
 - [What is ASCII](https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII)
 - [What is Unicode](https://www.twilio.com/docs/glossary/what-is-unicode)
+
+# I'm a Friend of Sarah Connor
+
+For many of us, when we hear "artificial intelligence" (AI), we might think of sci-fi movies like The Terminator and its famous line, "I'll be back." And honestly, some ways AI might develop can be a little scary. But before we dive into the big "what-ifs," let's break down what AI is, how it works, and how we use it today.
+
+AI is when machines are designed to think and act like humans. They can solve problems, learn from experience, make decisions, and understand language-just like people do. We are familiar with machines solving problems. Calculators, personal computers, smartwatches can solve problems more accurately and faster than the average human can. 
+
+But AI goes beyond simple problem-solving. Instead of just following instructions given by humans, AI can learn from experience and make its own decisions based on that learning. It can also understand and respond to human language. For example:
+
+Online Shopping: Websites recommend products based on what we've bought or viewed previously.
+Virtual Assistants: Siri, Alexa, and Google Assistant listen to our questions and respond.
+Streaming Services: Netflix and YouTube suggest shows and videos based on what we've watched.
+Self-Driving Cars: AI helps vehicles navigate and make driving decisions.
+
+AI can be categorized as the following:
+1. Narrow AI (ANI) / Weak AI:
+Definition: ANI is designed to perform specific tasks or in narrow domains. 
+Examples: Facial recognition, speech recognition, recommendation systems (like those used by Netflix or Amazon), and self-driving cars. 
+Limitations: ANI lacks general intelligence and cannot perform tasks outside its specific training. 
+2. General AI (AGI) / Strong AI:
+Definition: AGI is a hypothetical AI that possesses human-level intelligence, capable of understanding, learning, and applying knowledge across a wide range of tasks.
+Current Status: AGI is not yet a reality, but is a goal of AI research.
+Capabilities: AGI would be able to perform any intellectual task that a human being can. 
+3. Super AI (ASI):
+Definition: ASI is a hypothetical AI that surpasses human intelligence and capabilities. 
+Current Status: ASI is a future possibility, not a current reality. 
+Capabilities: ASI would have the ability to think, reason, solve problems, make judgments, learn, and communicate on its own, potentially better than humans.
+
+AI works by using algorithms and models that process large amounts of data to recognize patterns, make decisions, and improve performance over time. An algorithm is a step-by-step set of instructions that a computer follows to solve a problem or complete a task. It’s like a recipe that tells the computer exactly what to do in a specific order. The main components of AI include:
+Machine Learning (ML): Algorithms that allow systems to learn from data and improve without explicit programming.
+Deep Learning: A subset of ML that uses neural networks to process complex data like images, speech, and text. Neural networks mimic how the human brain processes information. It helps computers recognize patterns.
+Natural Language Processing (NLP): Enables machines to understand and generate human language (e.g., chatbots, translation tools).
+Computer Vision: Allows AI to interpret and analyze visual data from the world (e.g., facial recognition, autonomous vehicles).
+Robotics: Integrates AI with mechanical systems for automation (e.g., robotic surgery, warehouse automation).
+AI is widely used across various industries to improve efficiency, accuracy, and decision-making. Some common applications include:
+Healthcare: AI aids in disease diagnosis, drug discovery, robotic surgeries, and personalized medicine.
+Finance: AI detects fraud, automates trading, and offers personalized financial advice.
+Retail & ECommerce: AI powers recommendation systems, chatbots, and inventory management.
+Transportation: Self-driving cars, traffic management, and predictive maintenance for vehicles.
+Entertainment: AI is used in content recommendation (Netflix, YouTube), music composition, and even movie production.
+Manufacturing: AI-driven robots assist in production lines, predictive maintenance, and quality control.
+Education: AI personalized learning, automates grading, and provides tutoring through chatbots.
+Cybersecurity: AI detects and prevents cyber threats by analyzing patterns of attacks.
+Now regarding the killer cyborgs… Just kidding (I hope). The future of AI is uncertain and widely debated, but most discussions focus on possible advancements and challenges. AI could develop in several different ways:
+1. Advancements in AI Capabilities
+General AI (AGI): AI reaching human-like intelligence, capable of reasoning, problem-solving, and adapting across multiple domains, just like a human.
+Super AI (ASI): AI surpassing human intelligence in all aspects, potentially leading to unpredictable consequences.
+Self-improving AI: AI that can rewrite its own code to improve autonomously, leading to exponential growth in intelligence.
+2. AI’s Role in Society
+AI-Augmented Humans: Brain-computer interfaces (BCIs) allowing direct communication between humans and AI, enhancing cognitive abilities.
+Fully Automated Societies: AI managing economies, governance, and labor, leading to increased efficiency but raising ethical and social concerns.
+Personalized AI Assistants: AI companions becoming more emotionally intelligent and assisting in mental health, relationships, and education.
+3. AI in Scientific and Technological Breakthroughs
+Cure for Diseases: AI accelerating drug discovery, genetic engineering, and even personalized medicine tailored to individual DNA.
+Climate Change Solutions: AI optimizing energy use, predicting natural disasters, and developing new sustainable materials.
+Space Exploration: AI-powered robotics and autonomous systems assisting in interstellar exploration and colonization of planets.
+4. Potential Risks & Challenges
+Job Displacement: Mass automation may replace human jobs, requiring a shift in workforce skills or universal basic income.
+Ethical Dilemmas: AI decision-making in warfare, policing, and healthcare could pose moral risks.
+Control & Safety: The existential risk of AI acting beyond human control (e.g., "AI alignment problem" – ensuring AI’s goals align with human values).
+Bias & Discrimination: AI reflecting human biases in decision-making, affecting fairness in hiring, lending, and law enforcement.
+5. The AI Singularity
+A controversial theory suggests that once AI reaches a point where it can continuously improve itself, it could lead to an intelligence explosion (the singularity). Some predict this could be beneficial (ending human labor, solving global issues), while others fear it could be dangerous if AI’s goals diverge from human interests; e.g., the killer cyborgs.
+The future of AI is uncertain, but it holds incredible potential and significant risks. The key to a positive AI future lies in ethical development, human oversight, and regulation to ensure AI remains beneficial to society.
+This is why I wrote this blog. It’s up to all of us (whether you are an AI engineer or a layperson) -to keep a close eye on how AI develops. It’s up to us to question if those developments are ethical to all life (human, fauna, and flora) in every part of the world. It’s up to our governments to create (and citizens to demand) appropriate regulations to keep AI safe and positive. Or else, we may create a world that we won’t like. 
+
 
 
 
