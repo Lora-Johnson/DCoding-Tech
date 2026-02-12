@@ -2,10 +2,10 @@ remote_theme: just-the-docs/just-the-docs
 title: DCoding Tech
 description: Tech doesn’t have to be confusing. This blog translates complex tech topics into plain English, helping curious minds understand the tools and systems shaping our everyday lives—no coding experience required.
 
-# nav_external_links:
-#  - title: "She's Good with Computers"
-#   url: "https://lora-johnson.github.io/DCoding-Tech/#shes-good-with-computers"
-#  - title: "One the 1s and 0s"
-#    url: ""
-#  - title: "What are “Bad” LTV and DTI Ratios?"
-#    url: "I'm a Friend of Sarah Connor" 
+nav_external_links:
+  - title: "She's Good with Computers"
+    url: "https://lora-johnson.github.io/DCoding-Tech/#shes-good-with-computers"
+  - title: "One the 1s and 0s"
+    url: "https://lora-johnson.github.io/DCoding-Tech/#blog-on-the-1s-and-0s"
+  - title: "I'm a Friend of Sarah Connor"
+    url: "https://lora-johnson.github.io/DCoding-Tech/#im-a-friend-of-sarah-connor" 
