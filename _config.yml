@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: DCoding Tech
 
-nav_external_link:
+nav_external_links:
   - title: "She's Good with Computers"
     url: "https://lora-johnson.github.io/DCoding-Tech/#shes-good-with-computers"
   - title: "One the 1s and 0s"
