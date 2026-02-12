@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-## She's Good with Computers
+## **She's Good with Computers**
 
 My spouse and I were joking about the title of the post. On several occasions, this statement was uttered by older members of our respective families in reference to people that were knowledgeable about technology. 
 
@@ -99,7 +99,7 @@ Here are a few terms that I should have defined earlier:
 
 **Software** – A set of instructions that tells a computer what to do. It’s the invisible part of a computer that makes everything work.
 
-## On the 1s and 0s
+## **On the 1s and 0s**
 
 “Hey, don’t you mean ‘on the 1s and 2s’?” 
 
@@ -136,8 +136,8 @@ Here are some decimal numbers and their binary counterparts:
 
 | Decimal | Binary |
 | :--- | :---  |
-| 0 | <nobr>00000000</nobr> |
-| 1 | <nobr>00000001</nobr> |
+| 0 | 00000000&zwj; |
+| 1 | 00000001&zwj; |
 | 2 | <nobr>00000010</nobr> |
 | 150 | <nobr>10010110</nobr> |
 | 225 |<nobr>11100001</nobr> |
@@ -201,7 +201,7 @@ Here are some links for more information:
 - [What is ASCII](https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII)
 - [What is Unicode](https://www.twilio.com/docs/glossary/what-is-unicode)
 
-## I'm a Friend of Sarah Connor
+## **I'm a Friend of Sarah Connor**
 
 For many of us, when we hear "artificial intelligence" (AI), we might think of sci-fi movies like The Terminator and its famous line, "I'll be back." And honestly, some ways AI might develop can be a little scary. But before we dive into the big "what-ifs," let's break down what AI is, how it works, and how we use it today.
 
