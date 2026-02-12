@@ -95,7 +95,7 @@ Here are a few terms that I should have defined earlier:
 
 **Software** – A set of instructions that tells a computer what to do. It’s the invisible part of a computer that makes everything work.
 
-# Blog: On the 1s and 0s
+# On the 1s and 0s
 
 “Hey, don’t you mean ‘on the 1s and 2s’?” 
 
