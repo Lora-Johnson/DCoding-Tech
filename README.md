@@ -1,4 +1,4 @@
-<div id="user-content-toc" align="left">
+<div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary><h1>DCoding Tech</h1></summary>
   </ul>
