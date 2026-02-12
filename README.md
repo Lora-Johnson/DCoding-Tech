@@ -86,6 +86,7 @@ Tech isn’t just “computers”—it’s an entire universe of roles, from cod
 Understanding the diversity of these roles not only demystifies tech but also highlights the many opportunities available in the industry. So, if you or someone you know is interested in tech, there’s a place for you—no matter where your skills and passions lie.
 
 Here are a few terms that I should have defined:
+
 **Cloud** – A way to store and access data, apps, and services over the internet instead of on your personal computer or phone. This information (the data, apps, and services) are kept in a special storage space on servers (more on this below). So, if you use Google Drive, iCloud, or Netflix, you’re using the cloud. This definition scratches the surface of what you can do in the cloud.
 **Network** – A group of computers and devices that are connected so they can share information and resources. 
 **Server** – A specialized computer or system that provides data, services, or resources to other computers (called clients) over a network. It handles requests and responds with the appropriate information, making it a crucial part of the internet and many business systems – akin to a server in a restaurant.
@@ -99,8 +100,8 @@ If I were talking about DJing, you’d be right. But this is a tech blog, so 1s 
 
 Binary is a number system that uses only 0s and 1s to represent information. Why only two numbers? Because at the deepest level, computers are just tiny electronic circuits that can only do two things:
 
-* 0 = Off (No electricity flowing – think of a light switch turned off)
-* 1 = On (Electricity flowing – think of light switch turned on)
+- 0 = Off (No electricity flowing – think of a light switch turned off)
+- 1 = On (Electricity flowing – think of light switch turned on)
   
 You might ask yourself “How can only two digits represent all the information computers need?”. Well, it’s not just those two digits, but it’s the combinations of those 0s and 1s that represent all the innumerable things computers can do. 
 
@@ -147,17 +148,17 @@ So what do binary numbers mean to our computer? Here are a few examples:
 Computers don’t understand letters and characters like we do, so they use special encoding standards (ASCII or Unicode) to represent them in binary. 
 
 ASCII (American Standard Code for Information Interchange) is a character encoding system that maps English letters (A-Z, a-z), digits (0-9), and basic symbols to unique 7-bit binary values:
-* “A” = 01000001 
-* “B” = 01000010 
-* “5” = 00110101
+- “A” = 01000001 
+- “B” = 01000010 
+- “5” = 00110101
   
 Since ASCII only supports 128 characters, it’s limited to basic English text.
 
 Unicode, on the other hand, expands on ASCII to support characters from multiple languages, including Chinese, Arabic, emojis, and special symbols. It uses more bits (such as 16-bit or 32-bit) to accommodate thousands of characters:
 
-* “A” in Unicode is still 01000001, just like ASCII.
-* “日” (Japanese character for “sunlight”) = 11101010 00000000 01001010
-* "😄" (Smiley emoji) = 11110000 10011111 10011000 10010000
+- “A” in Unicode is still 01000001, just like ASCII.
+- “日” (Japanese character for “sunlight”) = 11101010 00000000 01001010
+- "😄" (Smiley emoji) = 11110000 10011111 10011000 10010000
   
 These varying encodings allow for a balance between the efficient use of computer storage space and the need to represent a comprehensive set of characters.
 
@@ -166,16 +167,16 @@ Every image on your screen is made up of pixels. Each pixel has a color, and eac
 
 Pure red in binary looks like this:
 
-* Red = 11111111 00000000 00000000 (Max red, No green, No blue)
+- Red = 11111111 00000000 00000000 (Max red, No green, No blue)
   
 RGB has its own notations of representing colors, so you would most likely see pure red referred to as (255, 0, 0) in 8-bit form or as (#FF0000) in hexadecimal form. While binary is the foundation, computers also use hexadecimal notation for more compact representations of large binary numbers. Hexadecimal is a 16-bit numerical system where numbers “0”–”9″ represent values 0 to 9 and letters “A”–”F” represent values from 10 to 15.
 
 3. Sounds 
 Have you ever wondered how music is stored digitally? It’s all just numbers!
 
-* A microphone records sound waves as analog signals.
-* The computer converts them into binary numbers by taking thousands of tiny samples per second.
-* Higher sample rates mean clearer sound—like switching from an old radio to a high-fidelity DJ setup.
+- A microphone records sound waves as analog signals.
+- The computer converts them into binary numbers by taking thousands of tiny samples per second.
+- Higher sample rates mean clearer sound—like switching from an old radio to a high-fidelity DJ setup.
   
 CD-quality audio takes 44,100 samples per second, meaning the computer stores 44,100 binary numbers every second to reproduce the original sound.
 
