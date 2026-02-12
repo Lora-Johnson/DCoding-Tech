@@ -118,7 +118,7 @@ Since binary only uses 0 and 1, when we count past 1, we combine those 0s and 1s
 Now that we understand binary works in powers of 2, let’s break down how place values are calculated:
 
 | Power of 2   | Calculation  | Place Value |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | 2⁰ | The exponent is 0, any number raised by 0 is always equal to 1, so 2 x 0 = 1.  | 1 |
 | 2¹ | The exponent is 1, which means 2 is used as a factor only once. So, 2 x 1 = 2. | 2 |
 | 2² | The exponent is 2, so 2 x 2 = 4. | 4 |
@@ -131,7 +131,7 @@ Now that we understand binary works in powers of 2, let’s break down how place
 Here are some decimal numbers and their binary counterparts:
 
 | Decimal | Binary |
-| :---: | :---:  |
+| :--- | :---  |
 | 0 | 00000000 |
 | 1 | 00000001 |
 | 2 | 00000010 |
@@ -261,6 +261,7 @@ Now regarding the killer cyborgs… Just kidding (I hope). The future of AI is u
 * Control & Safety: The existential risk of AI acting beyond human control (e.g., "AI alignment problem" – ensuring AI’s goals align with human values).
 * Bias & Discrimination: AI reflecting human biases in decision-making, affecting fairness in hiring, lending, and law enforcement.
 5. The AI Singularity
+  
 A controversial theory suggests that once AI reaches a point where it can continuously improve itself, it could lead to an intelligence explosion (the singularity). Some predict this could be beneficial (ending human labor, solving global issues), while others fear it could be dangerous if AI’s goals diverge from human interests; e.g., the killer cyborgs.
 
 The future of AI is uncertain, but it holds incredible potential and significant risks. The key to a positive AI future lies in ethical development, human oversight, and regulation to ensure AI remains beneficial to society.
