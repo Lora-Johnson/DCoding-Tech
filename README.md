@@ -149,7 +149,7 @@ So, just like you combine those 8 ingredients to make a chocolate cake; bits are
 
 Once you go past 11111111 (aka, decimal number 255), which is the endpoint of the 8-bit system, you move to 9-bit, 16-bit, 32-bit, or larger systems. And that, friends, is a bit more than what this blog post is going to cover in detail. 
 
-So what do binary numbers mean to our computer? Here are a few examples:
+So what do binary numbers mean to our computer? 
 
 **Letters and Characters:**
    
