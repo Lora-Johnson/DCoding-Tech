@@ -138,16 +138,16 @@ Here are some decimal numbers and their binary counterparts:
 | :--- | :---  |
 | 0 | 00000000&zwj; |
 | 1 | 00000001&zwj; |
-| 2 | <nobr>00000010</nobr> |
-| 150 | <nobr>10010110</nobr> |
-| 225 |<nobr>11100001</nobr> |
-| 255 | <nobr>11111111</nobr> |
+| 2 | 00000010&zwj; |
+| 150 | 10010110&zwj; |
+| 225 | 11100001&zwj; |
+| 255 | 11111111&zwj; |
 
 Each 0 or 1 in a binary number is called a bit. Bits are grouped into units of 8 to form bytes. Using a baking analogy, sugar is an important bit in making a chocolate cake, but you can’t make a chocolate cake with only one cup of sugar. Other ingredients are required to make a chocolate cake; flour, baking powder, salt, vanilla, cocoa powder, milk, and eggs. 
 
-So, just like you combine those 8 ingredients to make a chocolate cake; bits are combined in groups of 8 to form bytes – that’s why decimals like “0” are written as “00000000” in binary. Each byte represents something to a computer. 
+So, just like you combine those 8 ingredients to make a chocolate cake; bits are combined in groups of 8 to form bytes – that’s why decimals like “0” are written as “00000000&zwj;” in binary. Each byte represents something to a computer. 
 
-Once you go past 11111111 (aka, decimal number 255), which is the endpoint of the 8-bit system, you move to 9-bit, 16-bit, 32-bit, or larger systems. And that, friends, is a bit more than what this blog post is going to cover in detail. 
+Once you go past 11111111&zwj; (aka, decimal number 255), which is the endpoint of the 8-bit system, you move to 9-bit, 16-bit, 32-bit, or larger systems. And that, friends, is a bit more than what this blog post is going to cover in detail. 
 
 So what do binary numbers mean to our computer? 
 
@@ -156,17 +156,17 @@ So what do binary numbers mean to our computer?
 Computers don’t understand letters and characters like we do, so they use special encoding standards (ASCII or Unicode) to represent them in binary. 
 
 ASCII (American Standard Code for Information Interchange) is a character encoding system that maps English letters (A-Z, a-z), digits (0-9), and basic symbols to unique 7-bit binary values:
-- “A” = 01000001 
-- “B” = 01000010 
-- “5” = 00110101
+- “A” = 01000001&zwj; 
+- “B” = 01000010&zwj; 
+- “5” = 00110101&zwj;
   
 Since ASCII only supports 128 characters, it’s limited to basic English text.
 
 Unicode, on the other hand, expands on ASCII to support characters from multiple languages, including Chinese, Arabic, emojis, and special symbols. It uses more bits (such as 16-bit or 32-bit) to accommodate thousands of characters:
 
-- “A” in Unicode is still 01000001, just like ASCII.
-- “日” (Japanese character for “sunlight”) = 11101010 00000000 01001010
-- "😄" (Smiley emoji) = 11110000 10011111 10011000 10010000
+- “A” in Unicode is still 01000001&zwj;, just like ASCII.
+- “日” (Japanese character for “sunlight”) = 11101010&zwj; 00000000&zwj; 01001010&zwj;
+- "😄" (Smiley emoji) = 11110000&zwj; 10011111&zwj; 10011000&zwj; 10010000&zwj;
   
 These varying encodings allow for a balance between the efficient use of computer storage space and the need to represent a comprehensive set of characters.
 
@@ -176,7 +176,7 @@ Every image on your screen is made up of pixels. Each pixel has a color, and eac
 
 Pure red in binary looks like this:
 
-- Red = 11111111 00000000 00000000 (Max red, No green, No blue)
+- Red = 11111111&zwj; 00000000&zwj; 00000000&zwj; (Max red, No green, No blue)
   
 RGB has its own notations of representing colors, so you would most likely see pure red referred to as (255, 0, 0) in 8-bit form or as (#FF0000) in hexadecimal form. While binary is the foundation, computers also use hexadecimal notation for more compact representations of large binary numbers. Hexadecimal is a 16-bit numerical system where numbers “0”–”9″ represent values 0 to 9 and letters “A”–”F” represent values from 10 to 15.
 
