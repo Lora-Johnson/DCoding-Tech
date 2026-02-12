@@ -136,12 +136,12 @@ Here are some decimal numbers and their binary counterparts:
 
 | Decimal | Binary |
 | :--- | :---  |
-| 0 | 00000000 |
-| 1 | 00000001 |
-| 2 | 00000010 |
-| 150 | 10010110 |
-| 225 | 11100001 |
-| 255 | 11111111 |
+| 0 | <nobr>00000000</nobr> |
+| 1 | <nobr>00000001</nobr> |
+| 2 | <nobr>00000010</nobr> |
+| 150 | <nobr>10010110</nobr> |
+| 225 |<nobr>11100001</nobr> |
+| 255 | <nobr>11111111</nobr> |
 
 Each 0 or 1 in a binary number is called a bit. Bits are grouped into units of 8 to form bytes. Using a baking analogy, sugar is an important bit in making a chocolate cake, but you can’t make a chocolate cake with only one cup of sugar. Other ingredients are required to make a chocolate cake; flour, baking powder, salt, vanilla, cocoa powder, milk, and eggs. 
 
