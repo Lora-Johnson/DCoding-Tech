@@ -88,8 +88,11 @@ Understanding the diversity of these roles not only demystifies tech but also hi
 Here are a few terms that I should have defined:
 
 **Cloud** – A way to store and access data, apps, and services over the internet instead of on your personal computer or phone. This information (the data, apps, and services) are kept in a special storage space on servers (more on this below). So, if you use Google Drive, iCloud, or Netflix, you’re using the cloud. This definition scratches the surface of what you can do in the cloud.
+
 **Network** – A group of computers and devices that are connected so they can share information and resources. 
+
 **Server** – A specialized computer or system that provides data, services, or resources to other computers (called clients) over a network. It handles requests and responds with the appropriate information, making it a crucial part of the internet and many business systems – akin to a server in a restaurant.
+
 **Software** – A set of instructions that tells a computer what to do. It’s the invisible part of a computer that makes everything work.
 
 # Blog: On the 1s and 0s
