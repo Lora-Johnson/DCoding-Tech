@@ -220,11 +220,11 @@ AI can be categorized as the following:
 3. Super AI (ASI):
 * Definition: ASI is a hypothetical AI that surpasses human intelligence and capabilities. 
 * Current Status: ASI is a future possibility, not a current reality. 
-*Capabilities: ASI would have the ability to think, reason, solve problems, make judgments, learn, and communicate on its own, potentially better than humans.
+* Capabilities: ASI would have the ability to think, reason, solve problems, make judgments, learn, and communicate on its own, potentially better than humans.
 
 AI works by using algorithms and models that process large amounts of data to recognize patterns, make decisions, and improve performance over time. An algorithm is a step-by-step set of instructions that a computer follows to solve a problem or complete a task. It’s like a recipe that tells the computer exactly what to do in a specific order. The main components of AI include:
 
-*Machine Learning (ML): Algorithms that allow systems to learn from data and improve without explicit programming.
+* Machine Learning (ML): Algorithms that allow systems to learn from data and improve without explicit programming.
 * Deep Learning: A subset of ML that uses neural networks to process complex data like images, speech, and text. Neural networks mimic how the human brain processes information. It helps computers recognize patterns.
 * Natural Language Processing (NLP): Enables machines to understand and generate human language (e.g., chatbots, translation tools).
 * Computer Vision: Allows AI to interpret and analyze visual data from the world (e.g., facial recognition, autonomous vehicles).
