@@ -154,6 +154,7 @@ Once you go past 11111111 (aka, decimal number 255), which is the endpoint of th
 So what do binary numbers mean to our computer? Here are a few examples:
 
 1. Letters and Characters
+   
 Computers don’t understand letters and characters like we do, so they use special encoding standards (ASCII or Unicode) to represent them in binary. 
 
 ASCII (American Standard Code for Information Interchange) is a character encoding system that maps English letters (A-Z, a-z), digits (0-9), and basic symbols to unique 7-bit binary values:
@@ -172,6 +173,7 @@ Unicode, on the other hand, expands on ASCII to support characters from multiple
 These varying encodings allow for a balance between the efficient use of computer storage space and the need to represent a comprehensive set of characters.
 
 2. Images
+   
 Every image on your screen is made up of pixels. Each pixel has a color, and each color is stored as a binary code. A common format is RGB (Red, Green, Blue), where each color gets its own binary value.
 
 Pure red in binary looks like this:
@@ -180,7 +182,8 @@ Pure red in binary looks like this:
   
 RGB has its own notations of representing colors, so you would most likely see pure red referred to as (255, 0, 0) in 8-bit form or as (#FF0000) in hexadecimal form. While binary is the foundation, computers also use hexadecimal notation for more compact representations of large binary numbers. Hexadecimal is a 16-bit numerical system where numbers “0”–”9″ represent values 0 to 9 and letters “A”–”F” represent values from 10 to 15.
 
-3. Sounds 
+3. Sounds
+   
 Have you ever wondered how music is stored digitally? It’s all just numbers!
 
 - A microphone records sound waves as analog signals.
