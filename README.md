@@ -187,7 +187,7 @@ Beyond text, images, and sound, binary is also the foundation of programming lan
 Here are some links for more information:
 
 - [Decimal to Binary Converter](https://www.binaryhexconverter.com/decimal-to-binary-converter)
-- [16-32-64-128 bits](https://study.com/academy/lesson/16-32-64-128-bit-integers.html)
+- [8-16-32-64-128 bits](https://study.com/academy/lesson/16-32-64-128-bit-integers.html)
 - [What is ASCII](https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII)
 - [What is Unicode](https://www.twilio.com/docs/glossary/what-is-unicode)
 
