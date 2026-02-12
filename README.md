@@ -268,8 +268,8 @@ Now regarding the killer cyborgs… Just kidding (I hope). The future of AI is u
 * Control & Safety: The existential risk of AI acting beyond human control (e.g., "AI alignment problem" – ensuring AI’s goals align with human values).
 * Bias & Discrimination: AI reflecting human biases in decision-making, affecting fairness in hiring, lending, and law enforcement.
 5. The AI Singularity
-  
-A controversial theory suggests that once AI reaches a point where it can continuously improve itself, it could lead to an intelligence explosion (the singularity). Some predict this could be beneficial (ending human labor, solving global issues), while others fear it could be dangerous if AI’s goals diverge from human interests; e.g., the killer cyborgs.
+* A controversial theory suggests that once AI reaches a point where it can continuously improve itself, it could lead to an intelligence explosion (the singularity). 
+* Some predict this could be beneficial (ending human labor, solving global issues), while others fear it could be dangerous if AI’s goals diverge from human interests; e.g., the killer cyborgs.
 
 The future of AI is uncertain, but it holds incredible potential and significant risks. The key to a positive AI future lies in ethical development, human oversight, and regulation to ensure AI remains beneficial to society.
 
