@@ -2,9 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 title: DCoding Tech
 
 nav_external_links:
-  #- title: "She's Good with Computers"
-  #  url: "https://lora-johnson.github.io/DCoding-Tech/#shes-good-with-computers"
-  #  hide_icon: true
+  - title: "She's Good with Computers"
+    url: "https://lora-johnson.github.io/DCoding-Tech/#shes-good-with-computers"
+    hide_icon: true
   - title: "One the 1s and 0s"
     url: "https://lora-johnson.github.io/DCoding-Tech/#on-the-1s-and-0s"
     hide_icon: true
